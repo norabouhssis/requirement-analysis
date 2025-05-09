@@ -93,7 +93,7 @@ Facilitate communication among stakeholders and development team.
 
 ## Use Case Diagrams for the booking system:
 
-![Use Case Diagram](./assets/images/alx-booking-uc.png)
+![Use Case Diagram](alx-booking-uc.png)
 
 # Acceptance Criteria
 
