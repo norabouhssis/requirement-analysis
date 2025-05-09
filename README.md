@@ -1,3 +1,4 @@
+
 # Requirement Analysis in Software Development
 
 This analysis aims to clarify stakeholder expectations and eliminate ambiguity. By clearly defining the project scope, it helps prevent scope creep and lays a strong foundation for system design and development. It also supports accurate estimation of cost, resources, and timeline, ensuring that the final product aligns with the specified requirements and ultimately boosts customer satisfaction.
@@ -17,28 +18,28 @@ Key Activities in Requirement Analysis
 
 # Key Activities in Requirement Analysis
 
-1. Requirement Gathering 🗂️
-Interviews: Conducting interviews with stakeholders to gather detailed information about their needs and expectations.
-Surveys/Questionnaires: Distributing surveys to collect requirements from a larger audience.
-Workshops: Organizing workshops with stakeholders to discuss and gather requirements.
-Observation: Observing end-users in their working environment to understand their needs.
-Document Analysis: Reviewing existing documentation and systems to understand current functionalities and requirements.
-2. Requirement Elicitation ✍️
-Brainstorming: Conducting brainstorming sessions to generate ideas and gather requirements.
-Focus Groups: Holding focus group discussions with selected stakeholders to gather detailed requirements.
-Prototyping: Creating prototypes to help stakeholders visualize the system and refine their requirements.
-3. Requirement Documentation 📚
-Requirement Specification Document: Creating a detailed document that lists all functional and non-functional requirements.
-User Stories: Writing user stories to describe functionalities from the user’s perspective.
-Use Cases: Creating use case diagrams to show interactions between users and the system.
-4. Requirement Analysis and Modeling 📊
-Requirement Prioritization: Prioritizing requirements based on their importance and impact on the project.
-Feasibility Analysis: Assessing the feasibility of requirements in terms of technical, financial, and time constraints.
-Modeling: Creating models (e.g., data flow diagrams, entity-relationship diagrams) to visualize and analyze requirements.
-5. Requirement Validation ✅
-Review and Approval: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.
-Acceptance Criteria: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
-Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
+### 1. Requirement Gathering 🗂️
+- **Interviews:** Conducting interviews with stakeholders to gather detailed information about their needs and expectations.
+- **Surveys/Questionnaires:** Distributing surveys to collect requirements from a larger audience.
+- **Workshops:** Organizing workshops with stakeholders to discuss and gather requirements.
+- **Observation:** Observing end-users in their working environment to understand their needs.
+- **Document Analysis:** Reviewing existing documentation and systems to understand current functionalities and requirements.
+### 2. Requirement Elicitation ✍️
+- **Brainstorming:** Conducting brainstorming sessions to generate ideas and gather requirements.
+- **Focus Groups:** Holding focus group discussions with selected stakeholders to gather detailed requirements.
+- **Prototyping:** Creating prototypes to help stakeholders visualize the system and refine their requirements.
+### 3. Requirement Documentation 📚
+- **Requirement Specification Document:** Creating a detailed document that lists all functional and non-functional requirements.
+- **User Stories:** Writing user stories to describe functionalities from the user’s perspective.
+- **Use Cases:** Creating use case diagrams to show interactions between users and the system.
+### 4. Requirement Analysis and Modeling 📊
+- **Requirement Prioritization:** Prioritizing requirements based on their importance and impact on the project.
+- **Feasibility Analysis:** Assessing the feasibility of requirements in terms of technical, financial, and time constraints.
+- **Modeling:** Creating models (e.g., data flow diagrams, entity-relationship diagrams) to visualize and analyze requirements.
+### 5. Requirement Validation ✅
+- **Review and Approval:** Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.
+- **Acceptance Criteria:** Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
+- **Traceability:** Establishing traceability matrices to ensure all requirements are addressed during development and testing.
 
 # Types of Requirements
 
@@ -75,21 +76,17 @@ These define how the system performs — its quality attributes:
 - **Compliance:** Follow regulations like GDPR for user data protection and PCI DSS for payments.
 
 # Use Case Diagrams
-
 **Objective:** Visual representation of interactions between users and the system.
 
 #### What are Use Case Diagrams?
-
 Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
 
 #### Creating Use Case Diagrams:
-
 Identify actors (e.g., guest, registered user, admin).
 Define use cases (e.g., search properties, book property, manage listings).
 Draw interactions between actors and use cases.
 
 #### Benefits of Use Case Diagrams:
-
 Provide a clear visual representation of system functionalities.
 Help in identifying and organizing system requirements.
 Facilitate communication among stakeholders and development team.
